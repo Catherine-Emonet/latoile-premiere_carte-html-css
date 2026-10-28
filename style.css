@@ -1,5 +1,12 @@
+body {
+    background-color: rgb(82, 194, 234);
+}
 article {
     width: 425px;
     height: 425px;
+    background-color: white;
     text-align:  center;
+    padding: 40px;
+    gap: 10px;
+    border-radius: 20px;
 }
